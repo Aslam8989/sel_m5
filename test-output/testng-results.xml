@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-26T09:12:10 IST" name="Suite" finished-at="2025-02-26T09:12:10 IST" duration-ms="111">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T09:12:10 IST" name="Test" finished-at="2025-02-26T09:12:10 IST" duration-ms="111">
+      <class name="Listener.listener">
+        <test-method signature="demo()[pri:0, instance:Listener.listener@4f83df68]" started-at="2025-02-26T09:12:10 IST" name="demo" finished-at="2025-02-26T09:12:10 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Listener.listener -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
