@@ -17,7 +17,7 @@ public class softAssert {
 		driver.get("https://www.facebook.com/");
 		@Nullable
 		String title = driver.getTitle();
-//		Changes done in Github
+//		changes done in eclipes
 //		//softAssert
 		softAssert s=new softAssert();
 		SoftAssert soft=new SoftAssert();
